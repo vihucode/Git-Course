@@ -1,14 +1,1 @@
-# Git-Course
-# Git-Course
-# Git-Course
-# Git-Course
-# Git-Course
-# Git-Course
-# Git_training
-# Git_training
-# new_repositio
-# new_repositio
-# new_repo
-# new_repo
-# repo
-# new_repository
+# training
